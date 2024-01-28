@@ -1,17 +1,8 @@
 # 🖥️ Swift Documentation
 
-### 📚 Welcome to Swift
-- [About Swift](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/1.Welcome%20to%20Swift/1.About%20Swift.md)
+**The Swift Programming Language (5.9.2)**
 
-### 📚 Language Guide
-- [The Basics](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/1.The%20Basics.md)
-
-### 📚 Language Reference
-- [About the Language Reference](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/3.Language%20Reference/1.About%20the%20Language%20Reference.md)
-
-### 📚 Revision History
-- [Document Revision History](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/4.Revision%20History/Document%20Revision%20History.md)
-
+> [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) 을 한국어로 번역하여 정리한 것이며,오역 및 오타가 있을 수 있습니다.
 
 # Topics
 
@@ -29,6 +20,35 @@
 
 |Title|Overview|
 |:---:|:-------|
+|[The Basics <br> (기본)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/1.The%20Basics.md)|Work with common kinds of data and write basic syntax. <br> ()|
+|[Basics Operators <br> (기본 연산자)]()|Perform operations like assignment, arithmetic, and comparison. <br> ()|
+|[String and Characters <br> (문자열과 문자)]()|Store and manipulate text. <br> ()|
+|[Collection Types <br> (콜렉션 타입)]()|Organize data using arrays, sets, and dictionaries. <br> ()|
+|[Control Flow <br> (제어 흐름)]()|Structure code with branches, loops, and early exits. <br> ()|
+|[Functions <br> (함수)]()|Define and call functions, label their arguments, and use their return values. <br> ()|
+|[Closures <br> (클로저)]()|Group code that executes together, without creating a named function. <br> ()|
+|[Enumerations <br> (열거형)]()|Model custom types that define a list of possible values. <br> ()|
+|[Structures and Classes <br> (구조체와 클래스)]()|Model custom types that encapsulate data. <Br> ()|
+|[Properties <br> (프로퍼티)]()|Access stored and computed values that are part of an instance or type. <br> ()|
+|[Methods <br> (메서드)]()|Define and call functions that are part of an instance or type. <br> ()|
+|[Subscripts <br> (서브 스크립트)]()|Access the elements of a collection. <br> ()|
+|[Ingeritance <br> (상속)]()|Subclass to add or override functionality. <br> ()|
+|[Initialization <br> (초기화)]()|Set the initial values for a type’s stored properties and perform one-time setup. <br> ()|
+|[Deinitialization <br> (초기화 해제)]()|Release resources that require custom cleanup. <br> ()|
+|[Optional Chaining <br> (옵셔널 체이닝)]()|Access members of an optional value without unwrapping. <br> ()|
+|[Error Handling <br> (에러 처리)]()|Respond to and recover from errors. <br> ()|
+|[Concurrency <br> (동시성)]()|Perform asynchronous operations. <br> ()|
+|[Macros <br> (매크로)]()|Use macros to generate code at compile time. <br> ()|
+|[Type Casting <br> (타입 캐스팅)]()|Determine a value’s runtime type and give it more specific type information. <br> ()|
+|[Nested Types <br> (중첩된 타입)]()|Define types inside the scope of another type. <br> ()|
+|[Extensions <br> (확장)]()|Add functionality to an existing type. <br> ()|
+|[Protocols <br> (프로토콜)]()|Define requirements that conforming types must implement. <br> ()|
+|[Generics <br> (제네릭)]()|Write code that works for multiple types and specify requirements for those types. <br> ()|
+|[Opaque and Boxed Types <br> (불투명한 타입 및 박스 타입)]()|Hide implementation details about a value’s type. <br> ()|
+|[Automatic Reference Counting <br> (자동 참조 카운팅)]()|Model the lifetime of objects and their relationships. <br> ()|
+|[Memory Safety <br> (메모리 안전성)]()|Structure your code to avoid conflicts when accessing memory. <br> ()|
+|[Access Control <br> (접근 제어)]()|Manage the visibility of code by declaration, file, and module. <br> ()|
+|[Advaced Operators <br> (고급 연산자)]()|Define custom operators, perform bitwise operations, and use builder syntax. <br> ()|
 
 #
 
@@ -36,6 +56,16 @@
 
 |Title|Overview|
 |:---:|:-------|
+|[About the Language Reference <br> (언어 참조에 대해)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/3.Language%20Reference/1.About%20the%20Language%20Reference.md)|Read the notation that the formal grammar uses. <br> ()|
+|[Lexical Structure <br> (어휘 구조)]()|Use the lowest-level components of the syntax. <br> ()|
+|[Types <br> (타입)]()|Use built-in named and compound types. <br> ()|
+|[Expressions <br> (표현식)]()|Access, modify, and assign values. <br> ()|
+|[Statements <br> (구문)]()|Group expressions and control the flow of execution. <br> ()|
+|[Declarations <br> (선언)]()|Introduce types, operators, variables, and other names and constructs. <br> ()|
+|[Attributes <br> (속성)]()|Add information to declarations and types. <br> ()|
+|[Patterns <br> (패턴)]()|Match and destructure values. <br> ()|
+|[Generic Parameters and Arguments <br> (제네릭 파라미터와 인수)]()|Generalize declarations to abstract away concrete types. <br> ()|
+|[Summary of the Grammar <br> (문법 정리)]()|Read the whole formal grammar. <br> ()|
 
 #
 
@@ -43,7 +73,9 @@
 
 |Title|Overview|
 |:---:|:-------|
+|[Document Revision History <br> (문서 개정 내역)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/4.Revision%20History/Document%20Revision%20History.md)|Review the recent changes to this book. <br> ()|
 
+#
 
 # Translation
 
