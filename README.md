@@ -32,7 +32,7 @@
 |[Properties <br> (프로퍼티)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/10.Properties.md)|Access stored and computed values that are part of an instance or type. <br> ()|
 |[Methods <br> (메서드)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/11.Methods.md)|Define and call functions that are part of an instance or type. <br> ()|
 |[Subscripts <br> (서브 스크립트)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/12.Subscripts.md)|Access the elements of a collection. <br> ()|
-|[Ingeritance <br> (상속)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/13.Inheritance.md)|Subclass to add or override functionality. <br> ()|
+|[Inheritance <br> (상속)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/13.Inheritance.md)|Subclass to add or override functionality. <br> ()|
 |[Initialization <br> (초기화)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/14.Initialization.md)|Set the initial values for a type’s stored properties and perform one-time setup. <br> ()|
 |[Deinitialization <br> (초기화 해제)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/15.Deinitialization.md)|Release resources that require custom cleanup. <br> ()|
 |[Optional Chaining <br> (옵셔널 체이닝)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/2.Language%20Guide/16.Optional%20Chaining.md)|Access members of an optional value without unwrapping. <br> ()|
