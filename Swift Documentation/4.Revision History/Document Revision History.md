@@ -1,7 +1,5 @@
-# 
+# Document Revision History
 
 
 
-***
-### ⬅️ [The Basics](https://github.com/DevWooHyeon/iOS_Documentation/blob/main/Swift%20Documentation/Swift%20Language%20guide/1.The%20Basics.md)
-### ➡️ [next]()
+
