@@ -75,7 +75,6 @@
 |:---:|:-------|
 |[Document Revision History <br> (문서 개정 내역)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/4.Revision%20History/Document%20Revision%20History.md)|Review the recent changes to this book. <br> (이 문서의 최근 변경 사항을 검토하세요.)|
 
-#
 
 # Translation
 
