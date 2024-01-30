@@ -10,7 +10,7 @@
 
 |Title|Overview|
 |:---:|:-------|
-|[About Swift <br> (Swift 에 대해)]()|Understand the high-level goals of the language. <br> (언어의 높은 수준의 목표를 이해합니다.)|
+|[About Swift <br> (Swift 에 대해)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/1.Welcome%20to%20Swift/1.About%20Swift.md)|Understand the high-level goals of the language. <br> (언어의 높은 수준의 목표를 이해합니다.)|
 |[Version Compatibility <br> (버전 호환성)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/1.Welcome%20to%20Swift/2.Version%20Compatibility.md)|Learn what functionality is available in older language modes. <br> (이전 언어 모드에서 어떤 기능을 사용할 수 있는지 알아보세요.)|
 |[A Swift Tour <br> (Swift 둘러보기)](https://github.com/Developer-Nova/Swift-Documentation/blob/main/Swift%20Documentation/1.Welcome%20to%20Swift/3.A%20Swift%20Tour.md)|Explore the features and syntax of Swift. <br> (Swift 의 기능과 구문을 살펴보세요.)|
 
