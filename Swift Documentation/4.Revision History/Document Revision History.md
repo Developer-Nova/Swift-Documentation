@@ -3,4 +3,4 @@
 
 ***
 
-### ⬅️ [Generic Parameters and Arguments]()
+### ⬅️ [Summary of the Grammar]()
