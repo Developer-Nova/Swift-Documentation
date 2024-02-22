@@ -2,7 +2,7 @@
 
 **The Swift Programming Language (5.9.2)**
 
-> [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) 을 한국어로 번역하여 정리한 것이며, 오역 및 오타가 있을 수 있습니다.
+> [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) 를 한국어로 번역하여 정리한 것이며, 오역 및 오타가 있을 수 있습니다.
 
 # Topics
 
